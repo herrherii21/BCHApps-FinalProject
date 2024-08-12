@@ -39,7 +39,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/introTitle"
                 android:textStyle="bold"
-                android:textSize="43sp"
+                android:textSize="23sp"
                 android:textColor="@color/darkBlue"
                 android:textAlignment="center"/>
 

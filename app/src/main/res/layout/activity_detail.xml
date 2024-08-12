@@ -207,7 +207,7 @@
                                 android:layout_width="1dp"
                                 android:layout_height="wrap_content"
                                 android:layout_margin="8dp"
-                                android:background="@color/blue" />
+                                android:background="@color/green" />
 
                             <androidx.constraintlayout.widget.ConstraintLayout
                                 android:layout_width="0dp"
@@ -255,7 +255,7 @@
                                 android:layout_width="1dp"
                                 android:layout_height="wrap_content"
                                 android:layout_margin="8dp"
-                                android:background="@color/blue" />
+                                android:background="@color/green" />
 
                             <androidx.constraintlayout.widget.ConstraintLayout
                                 android:layout_width="0dp"
@@ -359,7 +359,7 @@ veniam, quis nostrud exercitation ullamco laboris
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
             android:text="$000"
-            android:textColor="@color/blue"
+            android:textColor="@color/green"
             android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"

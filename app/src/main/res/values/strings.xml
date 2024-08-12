@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">BCHApps</string>
-    <string name="introTitle">Explorer the<font color='#3f95ec'>\n World</font> with us</string>
-    <string name="subIntro">Lorem ipsum dolor sit amet, consectetur\n
- adipiscing elit,sed do eiusmod tempor.</string>
+    <string name="introTitle">Discover the pulse of creativity with
+        <font color='#4E9378'>\n Bandung Creative Hub</font>
+    </string>
+    <string name="subIntro">It is a forum center for creative ativities in Bandung.\n
+        to develop creative nodes throughout the city.
+    </string>
 
     <!--
     //Nama        : Heri ;

@@ -34,7 +34,7 @@
                     android:id="@+id/view"
                     android:layout_width="wrap_content"
                     android:layout_height="300dp"
-                    android:background="@color/blue"
+                    android:background="@color/green"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
@@ -85,8 +85,8 @@
                             android:layout_height="30dp"
                             android:background="@drawable/light_blue_bg"
                             android:gravity="center"
-                            android:text="Upcoming trip"
-                            android:textColor="@color/blue"
+                            android:text="Reservation"
+                            android:textColor="@color/green"
                             android:textStyle="bold"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />
@@ -126,7 +126,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="8dp"
-                        android:text="Show this toicket to the your guide before departure"
+                        android:text="Show this ticket to the reservation administration"
                         android:textColor="@color/darkBlue"
                         android:textSize="12sp" />
 
@@ -139,7 +139,7 @@
                             android:id="@+id/textView18"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Tour Guide"
+                            android:text="Reservation"
                             android:textColor="@color/darkBlue"
                             app:layout_constraintStart_toStartOf="parent"
                             app:layout_constraintTop_toTopOf="parent" />
@@ -180,7 +180,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="16dp"
-                            android:text="Tip Duration"
+                            android:text="Duration"
                             android:textColor="@color/darkBlue"
                             app:layout_constraintStart_toStartOf="@+id/tourGuideTxt"
                             app:layout_constraintTop_toBottomOf="@+id/tourGuideTxt" />
@@ -239,7 +239,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="8dp"
-                            android:text="Tour Guide"
+                            android:text="Call Center"
                             android:textColor="@color/darkBlue"
                             app:layout_constraintStart_toEndOf="@+id/profile"
                             app:layout_constraintTop_toTopOf="@+id/profile" />
